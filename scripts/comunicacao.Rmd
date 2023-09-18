@@ -112,5 +112,8 @@ echarts4r::e_charts(height = 800) |>
   )
 ```
 
-**Critério**: placares com 3 gols ou mais de diferença foram considerados goleadas.
+> **Critério**: placares com 3 gols ou mais de diferença foram considerados goleadas.
 
+---
+
+Feito por [William Amorim](https://twitter.com/wamorim_), na 16ª aMostra de Estatística do IME-USP.
