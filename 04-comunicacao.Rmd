@@ -70,7 +70,7 @@ tab_grafico <- tab_goleadas |>
     )
   )
 
-echarts4r::e_charts() |>
+echarts4r::e_charts(height = "800px") |>
   echarts4r::e_list(
     list(
       xAxis = list(
